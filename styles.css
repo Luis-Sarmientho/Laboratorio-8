@@ -15,4 +15,12 @@ img {
     max-width: 100%;
     height: auto;   
 }
+.additional-elements{
+    max-width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
+}
            
